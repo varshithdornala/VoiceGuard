@@ -1,0 +1,61 @@
+{
+  "repo": "SpeechAntiSpoofingBenchmarks/AASIST",
+  "commit": "16774d458d86d2a021ae31646c1bf66a5331b53e",
+  "repo_files": [
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ADD2023_track12_test_r1/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ADD22_eval_31/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ASVspoof2019_LA/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ASVspoof2021_DF/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ASVspoof2021_LA/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ASVspoof5/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ASVspoof5/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ArAD/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/CD-ADD/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/CFAD/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/CFAD/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/CVoiceFake_small/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/CVoiceFake_small/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/DECRO/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/DFADD/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/DFADD/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/DeepVoice/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/DeepVoice/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/EmoFake_test/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/EmoFake_test/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/EmoSpoofTTS/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/HABLA/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/InTheWild/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/J-SPAW_LA/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/LibriSeVoc/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/LibriSeVoc/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/ODSS/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/PyAra/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/PyAra/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/SONAR/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/SONAR/scores.txt",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/XMAD/result.yaml",
+    ".eval_results/SpeechAntiSpoofingBenchmarks/XMAD/scores.txt",
+    ".eval_results/lab260/LRLspoof/scores.txt",
+    ".gitattributes",
+    "AASIST.pth",
+    "LICENSE",
+    "README.md",
+    "aasist.onnx",
+    "meta.yaml",
+    "trt_aasist.py"
+  ],
+  "downloaded": {
+    "AASIST.pth": {
+      "bytes": 1281532,
+      "sha256": "51d2d9cf0738172f61e2a384ec50a54a55363240f67c971ed55a92435bc1a1c0"
+    },
+    "LICENSE": {
+      "bytes": 1064,
+      "sha256": "da2e79b8592d166ef505224300968b80ebe1e4c217c43b94a5ec627d81cd4142"
+    },
+    "meta.yaml": {
+      "bytes": 1513,
+      "sha256": "b991987618016d9608cdc7086ffb9a6d687acd1361c806bd7a6d438bf4c1141f"
+    }
+  }
+}
