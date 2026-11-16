@@ -9,10 +9,10 @@ Repository: https://github.com/varshithdornala/VoiceGuard
 
 | Member | Role | GitHub |
 |---|---|---|
-| Chamala Nidhish Kumar (Team Leader) | Setup, Testing and Deployment | (code pushed via teammate's account) |
+| Chamala Nidhish Kumar (Team Leader) | Frontend and UX | (code pushed via teammate's account) |
 | Chinta Eswara Naga Srinivas | AI Model and Detection | [srinivas2008chinta-ai](https://github.com/srinivas2008chinta-ai) |
 | Mallu Rama Sumanth Reddy | Backend and API | [sumanthrdy007r-hue](https://github.com/sumanthrdy007r-hue) |
-| Dornala Varshith | Frontend and UX | [varshithdornala](https://github.com/varshithdornala) |
+| Dornala Varshith | Setup, Testing and Deployment | [varshithdornala](https://github.com/varshithdornala) |
 
 ## How it works
 
